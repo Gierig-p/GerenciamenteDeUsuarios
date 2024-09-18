@@ -1,0 +1,14 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\bin\Debug\net8.0\GerenciamenteDeUsuarios.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\bin\Debug\net8.0\GerenciamenteDeUsuarios.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\bin\Debug\net8.0\GerenciamenteDeUsuarios.runtimeconfig.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\bin\Debug\net8.0\GerenciamenteDeUsuarios.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\bin\Debug\net8.0\GerenciamenteDeUsuarios.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\refint\GerenciamenteDeUsuarios.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\GerenciamenteDeUsuarios.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\GerenciamenteDeUsuarios\obj\Debug\net8.0\ref\GerenciamenteDeUsuarios.dll
